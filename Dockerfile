@@ -1,6 +1,6 @@
 FROM wordpress:cli-php7.2
 
-ENV HOME /home/nvm
+ENV HOME /var/www/html
 
 USER root
 
